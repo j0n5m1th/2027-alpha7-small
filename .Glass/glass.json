@@ -1,0 +1,31 @@
+{
+  "NetworkTables": {
+    "retained": {".schema": {"open": true}},
+    "transitory": {
+      "DriverStation": {
+        "ControlWord##v_\/DriverStation\/ControlWord": {"open": true},
+        "open": true
+      },
+      "Limelite": {"open": true},
+      "Robot": {"open": true}
+    },
+    "types": {"\/DriverStation": "DriverStation"},
+    "windows": {"\/DriverStation": {"window": {"visible": true}}}
+  },
+  "NetworkTables Info": {
+    "Clients": {"open": true},
+    "Connections": {"open": true},
+    "Server": {
+      "Publishers": {"open": true},
+      "Subscribers": {"open": true},
+      "open": true
+    },
+    "glass@1": {"open": true},
+    "visible": true
+  },
+  "NetworkTables Log": {"visible": true},
+  "NetworkTables Settings": {
+    "mode": "Client",
+    "serverTeam": "1987"
+  }
+}
